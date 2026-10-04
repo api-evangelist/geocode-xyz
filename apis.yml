@@ -39,7 +39,6 @@ apis:
   - name: Geocode.xyz
     description: "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing"
     humanURL: https://geocode.xyz/api
-    baseURL: https://geocode.xyz/api
     tags:
       - Geocoding
     properties:
